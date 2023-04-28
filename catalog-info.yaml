@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: integrate
+  annotations:
+    github.com/project-slug: yugandhara-adi/integrate
+spec:
+  type: service
+  lifecycle: unknown
+  owner: yugandhara-adi
